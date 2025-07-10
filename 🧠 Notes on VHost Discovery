@@ -1,0 +1,2 @@
+Feroxbuster does not natively detect virtual hosts.
+See vhost-note.md for workarounds using tools like ffuf and vhostscan.
